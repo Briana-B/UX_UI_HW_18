@@ -92,6 +92,7 @@
     max-width: 1196px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 122px;
 }
 
 .column-row-skills {
@@ -265,6 +266,7 @@
 .Skills{
     margin: auto;
     margin-bottom: 122px;
+    margin-top: 122px;
     display: flex;
     flex-direction: row;
     color: white;
@@ -332,6 +334,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 122px;
 }
 
 footer p{
